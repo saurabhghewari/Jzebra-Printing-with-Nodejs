@@ -12,17 +12,20 @@ Pre-Requisites:-
 	4. Windows Or Linux
 
 **Note:- Downloding or cloning this repository need not to follow the below steps.
+
         Just run these commnds one after one 
-            cd folder_name 
-            npm install 
-            npm start
+        cd folder_name 
+        npm install 
+        npm start
 
 Getting the jzebra lib:-
+
 	1. Download the jzebra library form the 
 		https://code.google.com/p/jzebra/downloads/list
 	2. Extract it to the folder of your name.
 
-Setting up the Thermal printer:-(Connect the printer using USB)
+Setting up the Thermal printer:-(Connect the printer using USB):-
+	
 	Follow the steps from this link depending which OS you are using:-
 		https://code.google.com/p/jzebra/wiki/TutorialWebApplet
 	*Note for Windows:- You get the driver cd with the printer, install the drivers for the printer you have. 			If drivers are not available then follow the documentation from above link.
