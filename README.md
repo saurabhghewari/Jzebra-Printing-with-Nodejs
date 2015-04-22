@@ -54,13 +54,12 @@ Setting up the Backend server(Nodejs):-
 					qz-print_jnlp.jnlp
 				-views
 					.html file which contains the print logic.(here print.html)
-					print.html is sample.html found here
-						jzebra_extracted_folder/qz-print/dist/sample.html
-	3. Then in main file of server ex:- app.js or server.js make the changes to serve 		the 				print.html page.
+					print.html is sample.html found here jzebra_extracted_folder/qz-print/dist/sample.html
+	3. Then in main file of server ex:- app.js or server.js make the changes to serve the print.html page.
 
-	4. Then going to http://localhost:3000/ the firefox should ask for the blocked content permission. Allow 			the blocked content then you should get the error or nothing should go for the print on 			clicking any print button.
+	4. Then going to http://localhost:3000/ the firefox should ask for the blocked content permission. Allow the blocked content then you should get the error or nothing should go for the print on 			clicking any print button.
 
-	5. Now open the java control panel and go to security tab. At the bottom you will get Edit List button to 			Exception Sites block.
+	5. Now open the java control panel and go to security tab. At the bottom you will get Edit List button to	Exception Sites block.
 
 	6. Here Add the such page links whcih executes the applet code. 
 		In this Example
