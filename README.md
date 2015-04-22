@@ -11,14 +11,14 @@ Pre-Requisites:-
 		Test the browser for the java plugin or else update the browser with the java plugin.
 	4. Windows Or Linux
 
-**Note:- Downloding or cloning this repository need not to follow the below steps.
+**Note:- Downloding or cloning this repository
 
         Just run these commnds one after one 
         cd folder_name 
         npm install 
         npm start
 
-Getting the jzebra lib:-
+Getting the jzebra lib:-(If cloned this repository then no need to do down steps).
 
 	1. Download the jzebra library form the 
 		https://code.google.com/p/jzebra/downloads/list
