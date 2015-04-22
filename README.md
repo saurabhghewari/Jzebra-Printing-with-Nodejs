@@ -1,14 +1,15 @@
 jZebra To Print using the Browsers.
 
 Pre-Requisites:-
-		1. Backend Web Server apace/tomacat/Node etc.
+
+	1. Backend Web Server apace/tomacat/Node etc.
 			*This demo uses Nodejs server.
-		2. Java greater than 1.5v.
-			Get the java versions using this command from cmd:- java -version
-			Or Update java to the latest versions.
-		3. Firefox with java plugins.(Strictly recommended)
-			Test the browser for the java plugin or else update the browser with the java plugin.
-		4. Windows Or Linux
+	2. Java greater than 1.5v.
+		Get the java versions using this command from cmd:- java -version
+		Or Update java to the latest versions.
+	3. Firefox with java plugins.(Strictly recommended)
+		Test the browser for the java plugin or else update the browser with the java plugin.
+	4. Windows Or Linux
 
 **Note:- Downloding or cloning this repository need not to follow the below steps.
         Just run these commnds one after one 
