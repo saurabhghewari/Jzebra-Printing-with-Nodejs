@@ -1,17 +1,17 @@
 jZebra To Print using the Browsers.
 
 Pre-Requisites:-
-	1. Backend Web Server apace/tomacat/Node etc.
-		*This demo uses Nodejs server.
-	2. Java greater than 1.5v.
-		Get the java versions using this command from cmd:- java -version
-		Or Update java to the latest versions.
-	3. Firefox with java plugins.(Strictly recommended)
-		Test the browser for the java plugin or else update the browser with the java plugin.
-	4. Windows Or Linux
+		1. Backend Web Server apace/tomacat/Node etc.
+			*This demo uses Nodejs server.
+		2. Java greater than 1.5v.
+			Get the java versions using this command from cmd:- java -version
+			Or Update java to the latest versions.
+		3. Firefox with java plugins.(Strictly recommended)
+			Test the browser for the java plugin or else update the browser with the java plugin.
+		4. Windows Or Linux
 
 **Note:- Downloding or cloning this repository need not to follow the below steps.
-          Just run these commnds one after one 
+        Just run these commnds one after one 
             cd folder_name 
             npm install 
             npm start
@@ -21,12 +21,12 @@ Getting the jzebra lib:-
 		https://code.google.com/p/jzebra/downloads/list
 	2. Extract it to the folder of your name.
 
-setting up the Thermal printer:-(Connect the printer using USB)
+Setting up the Thermal printer:-(Connect the printer using USB)
 	Follow the steps from this link depending which OS you are using:-
 		https://code.google.com/p/jzebra/wiki/TutorialWebApplet
 	*Note for Windows:- You get the driver cd with the printer, install the drivers for the printer you have. 			If drivers are not available then follow the documentation from above link.
 
-Setting up the Backend server(Nodejs)
+Setting up the Backend server(Nodejs):-
 	*Note:- You can setup your own backend server as you just have to server the required printing libs and 			files to the client.
 	
 	1. Considering Nodejs and Express are installed on the machine, run this cmd
