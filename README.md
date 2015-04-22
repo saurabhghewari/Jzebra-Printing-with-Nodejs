@@ -57,17 +57,8 @@ Setting up the Backend server(Nodejs):-
 					print.html is sample.html found here jzebra_extracted_folder/qz-print/dist/sample.html
 	3. Then in main file of server ex:- app.js or server.js make the changes to serve the print.html page.
 
-	4. Then going to http://localhost:3000/ the firefox should ask for the blocked content permission. Allow the blocked content then you should get the error or nothing should go for the print on 			clicking any print button.
+	4. Then going to http://localhost:3000/ the firefox should ask for the blocked content permission. Allow the blocked content. If not then, update the java version installed on the machine.
+	5. Hence, the program should run.
 
-	5. Now open the java control panel and go to security tab. At the bottom you will get Edit List button to	Exception Sites block.
-
-	6. Here Add the such page links whcih executes the applet code. 
-		In this Example
-			http://localhost:3000
-			http://localhost:3000/qz-printer(optional, it the error continues)
-		Also check for the security level. Set Medium or High
-	7. Save the above settings.
-	
-	8. Restart the firefox browser and re-run the url. This should work now which will prompt for the security 		block asking the permission to run the applet.
-
+** Amazing thing is that if the server gets disconnected then also POS print can be given.
 **For more info follow the jzebra code.google.com/p/jzebra
